@@ -1,0 +1,1 @@
+alert('obrigado DEUS! obrigado thicode!')
